@@ -1,4 +1,9 @@
-## Hi there 👋
+# Manuel Naldi
+
+**Frontend Engineer**
+
+Currently at [QubicaAMF](https://www.qubicaamfbowling.com/)
+
 
 <!--
 **mannynaldi/mannynaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
